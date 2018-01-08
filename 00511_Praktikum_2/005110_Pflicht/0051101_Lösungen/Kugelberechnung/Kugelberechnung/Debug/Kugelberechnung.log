@@ -1,0 +1,5 @@
+﻿  main.c
+e:\0_fh\02_pr\021_prp1\0212_praktikum_2\kugelberechnung\kugelberechnung\main.c(33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\0_fh\02_pr\021_prp1\0212_praktikum_2\kugelberechnung\kugelberechnung\main.c(38): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Kugelberechnung.vcxproj -> E:\0_FH\02_PR\021_PRP1\0212_Praktikum_2\Kugelberechnung\Debug\Kugelberechnung.exe
+  Kugelberechnung.vcxproj -> E:\0_FH\02_PR\021_PRP1\0212_Praktikum_2\Kugelberechnung\Debug\Kugelberechnung.pdb (Partial PDB)

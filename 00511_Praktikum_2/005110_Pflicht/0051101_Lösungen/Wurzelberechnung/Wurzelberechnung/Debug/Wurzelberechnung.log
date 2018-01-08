@@ -1,0 +1,4 @@
+﻿  main.c
+e:\0_fh\02_pr\021_prp1\0212_praktikum_2\wurzelberechnung\wurzelberechnung\main.c(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Wurzelberechnung.vcxproj -> E:\0_FH\02_PR\021_PRP1\0212_Praktikum_2\Wurzelberechnung\Debug\Wurzelberechnung.exe
+  Wurzelberechnung.vcxproj -> E:\0_FH\02_PR\021_PRP1\0212_Praktikum_2\Wurzelberechnung\Debug\Wurzelberechnung.pdb (Partial PDB)
