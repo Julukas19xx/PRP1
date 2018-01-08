@@ -1,0 +1,3 @@
+﻿  main.c
+e:\0_fh\00_1._semester\005_pr\0051_prp1\00510_praktikum_1\005101_zusatz\0051011_lösungen\fakultät\fakultät\main.c(31): warning C4477: "scanf": Die Formatzeichenfolge "%ld" erfordert ein Argument vom Typ "long *", das variadic-Argument "1" weist aber den Typ "long" auf.
+  Fakultät.vcxproj -> E:\0_FH\00_1._Semester\005_PR\0051_PRP1\00510_Praktikum_1\005101_Zusatz\0051011_Lösungen\Fakultät\Debug\Fakultät.exe
