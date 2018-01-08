@@ -1,0 +1,5 @@
+﻿  main.c
+e:\0_fh\00_1._semester\005_pr\0051_prp1\00514_praktikum_5\005140_pflicht\0051401_lösungen\ratespiel\ratespiel\main.c(58): warning C4477: "scanf": Die Formatzeichenfolge "%c" erfordert ein Argument vom Typ "char *", das variadic-Argument "1" weist aber den Typ "int *" auf.
+e:\0_fh\00_1._semester\005_pr\0051_prp1\00514_praktikum_5\005140_pflicht\0051401_lösungen\ratespiel\ratespiel\main.c(62): warning C4477: "scanf": Die Formatzeichenfolge "%c" erfordert ein Argument vom Typ "char *", das variadic-Argument "1" weist aber den Typ "int *" auf.
+e:\0_fh\00_1._semester\005_pr\0051_prp1\00514_praktikum_5\005140_pflicht\0051401_lösungen\ratespiel\ratespiel\main.c(112): warning C4477: "scanf": Die Formatzeichenfolge "%c" erfordert ein Argument vom Typ "char *", das variadic-Argument "1" weist aber den Typ "int *" auf.
+  Ratespiel.vcxproj -> E:\0_FH\00_1._Semester\005_PR\0051_PRP1\00514_Praktikum_5\005140_Pflicht\0051401_Lösungen\Ratespiel\Debug\Ratespiel.exe
